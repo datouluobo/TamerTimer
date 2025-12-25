@@ -9,9 +9,7 @@ TamerTimer 是一个用于魔兽世界（经典怀旧服）的稀有宠物刷新
 ![Logo](Logo_400.png)
 
 ## Features / 功能特性
-*   **Auto Timer / 自动计时**: Automatically detects rare pet kills via combat log. (自动通过战斗日志检测击杀)
 *   **Smart Tracking / 智能追踪**: Visualizes respawn status (Countdown / Camping). (可视化显示倒计时和蹲守状态)
-*   **Bilingual / 双语支持**: Fully supports English and Chinese. (完美支持中英双语)
 *   **Minimalist UI / 极简界面**: Compact and transparent design. (紧凑透明的现代化设计)
 
 ## Screenshots / 界面截图
