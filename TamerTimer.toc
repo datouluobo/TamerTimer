@@ -1,0 +1,12 @@
+## Interface: 50503
+## Title: TamerTimer - 驯兽师计时器
+## Notes: Rare Pet Respawn Timer - Record kill times and respawn times | 稀有宠物刷新计时器 - 记录击杀刷新时间
+## Author: 天堂暴风
+## Version: 1.1.0
+## IconTexture: Interface\AddOns\TamerTimer\Logo_64.png
+## SavedVariables: TamerTimerDB, TamerTimerMinimapDB
+
+Core.lua
+Database.lua
+Minimap.lua
+UI.lua

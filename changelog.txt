@@ -1,0 +1,68 @@
+TamerTimer Changelog
+
+==================================================
+v1.1 (2025-12-25)
+==================================================
+
+[ English Version ]
+
+* UI Overhaul
+  - Minimalist Design: Increased transparency for a modern look.
+  - Unified Style: Redesigned buttons with a flat style.
+  - Visual Enhancements: Doubled progress bar height (16px), centered floating timer text, and larger fonts.
+
+* New Features
+  - Smart List Mode:
+    - Auto: Adapts height for <=9 pets (no scroll).
+    - Extended: Fixed height scrollable list for >9 pets.
+  - Streamlined Operations: Icon-based actions replacing context menus.
+
+* Bug Fixes
+  - Fixed "Add Mode" adding all pets issue.
+  - Fixed various UI loading and rendering bugs.
+  - Fixed scrolling overlap issues.
+
+
+[ 中文版 (Chinese Version) ]
+
+* UI 重构与美化
+  - 极简设计：大幅提升主窗口透明度。
+  - 统一风格：重新设计了扁平化按钮。
+  - 信息优化：进度条加粗(16px)，时间悬浮居中，字体加大。
+
+* 新功能特性
+  - 智能列表模式：
+    - 自动模式(<=9)：高度自适应，无滚动。
+    - 扩展模式(>9)：固定高度滚动列表。
+  - 操作便捷化：全图标操作，移除右键菜单。
+
+* 问题修复
+  - 修复添加模式一次性添加所有宠物的问题。
+  - 修复UI加载黑屏和重叠问题。
+  - 代码优化。
+
+
+==================================================
+v1.0.0 - Initial Release
+==================================================
+
+Welcome to the first release of TamerTimer! / 欢迎使用 TamerTimer 初始版本！
+
+[ New Features / 新功能 ]
+* Auto Timer / 自动计时：
+  - Automatically detects rare pet kills via combat log and starts a respawn timer.
+  - 通过战斗日志自动检测稀有宠物击杀并开始刷新倒计时。
+
+* Status Tracking / 状态追踪：
+  - Visualizes respawn status (Countdown / Camping).
+  - 可视化显示刷新状态（倒计时 / 蹲守中）。
+
+* Bilingual UI / 双语界面：
+  - Fully supports English and Chinese.
+  - 完美支持中英双语。
+
+* Minimap Button / 快捷入口：
+  - Quick access via minimap button or /tamt command.
+  - 支持小地图按钮或 /tamt 命令快速打开。
+
+Happy Hunting! / 祝狩猎愉快！

@@ -1,0 +1,23 @@
+# WPF Application and Visual Studio Files
+WpfApp/
+bin/
+obj/
+.vs/
+*.sln
+*.lnk
+*.user
+*.suo
+*.tmp
+*.pdb
+
+# System Files
+Thumbs.db
+.DS_Store
+
+# IDE Settings
+.idea/
+.vscode/
+
+# Backups
+*.bak
+*.lua.bak
