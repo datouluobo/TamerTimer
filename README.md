@@ -14,6 +14,12 @@ TamerTimer 是一个用于魔兽世界（经典怀旧服）的稀有宠物刷新
 *   **Bilingual / 双语支持**: Fully supports English and Chinese. (完美支持中英双语)
 *   **Minimalist UI / 极简界面**: Compact and transparent design. (紧凑透明的现代化设计)
 
+## Screenshots / 界面截图
+![List Mode](assets/1.png)
+![Compact Mode](assets/2.png)
+![Adding Pet](assets/3.png)
+![Settings](assets/4.png)
+
 ## Installation / 安装
 1.  Download the latest release.
 2.  Extract to `Interface/AddOns/TamerTimer`.
