@@ -16,13 +16,9 @@ TamerTimer 是一个用于魔兽世界（经典怀旧服）的稀有宠物刷新
 
 ## Screenshots / 界面截图
 <p align="center">
-  <img src="assets/1.png" width="600" alt="List Mode"/>
+  <img src="assets/1.png" width="400" alt="List Mode"/> <img src="assets/2.png" width="400" alt="Compact Mode"/>
   <br/>
-  <img src="assets/2.png" width="600" alt="Compact Mode"/>
-  <br/>
-  <img src="assets/3.png" width="600" alt="Adding Pet"/>
-  <br/>
-  <img src="assets/4.png" width="600" alt="Settings"/>
+  <img src="assets/3.png" width="400" alt="Adding Pet"/> <img src="assets/4.png" width="400" alt="Settings"/>
 </p>
 
 ## Installation / 安装
